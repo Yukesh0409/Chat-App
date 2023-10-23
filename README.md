@@ -1,0 +1,2 @@
+# Chat-App
+This project is a simple chat application built using HTML, CSS, JavaScript, and the Socket.IO library. It provides a real-time chat experience where users can send and receive messages. The application features a clean and intuitive user interface with a dark theme, making it a stylish and functional chat platform. It's a great starting point for building your own chat applications or for learning more about web development and real-time communication with Socket.IO.
